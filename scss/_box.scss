@@ -1,0 +1,29 @@
+/*
+
+Box styles
+
+*/
+
+.box1, .box2, .box3 {
+    padding: 20px 40px;
+    opacity: 70%;
+    font-size: 1.2rem;
+    border: 8px solid white;
+    font-family: Rubik, sans-serif;
+    font-weight: 700;
+    font-size: 150px;
+    color: white; 
+}
+
+.box1 {
+    background: #343434;
+}
+
+.box2 {
+    background: #4f1a1a;
+  }
+
+
+.box3 {
+    background: #835505;
+}

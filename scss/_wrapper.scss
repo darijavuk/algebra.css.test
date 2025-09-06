@@ -1,0 +1,16 @@
+/*
+
+Wrapper style
+
+*/
+
+.wrapper {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url("./media/park.jpg");
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+}

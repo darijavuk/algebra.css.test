@@ -1,0 +1,35 @@
+/*
+
+Media queries
+
+*/
+
+@media (max-width: 768px) and (max-width: 1152px) {
+  
+}
+
+@media (max-width: 768px) {
+
+.box1, .box2, .box3 {
+    position: absolute;
+}
+
+.feature {
+    display: flex;
+    flex-direction: row; 
+    position: relative;
+    align-items: center;      
+    height: 100vh;            
+    gap: 65px;
+}
+
+.box1 {
+    position: absolute;
+    margin-bottom: 632px;
+}
+
+.box3 {
+    position: absolute;
+    margin-bottom: -632px;
+}
+}
